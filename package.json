@@ -1,0 +1,16 @@
+{
+  "name": "remark-attr2htmlcomment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdast-builder": "^1.1.1",
+    "unist-util-visit": "^4.1.0"
+  }
+}
