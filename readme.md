@@ -7,7 +7,7 @@ Currently only supports single custom class attributes on blockquotes, headings 
 ## Rationale
 
 The new remark parser [broke](https://github.com/arobase-che/remark-attr/issues/22) the remark-attr plugin.
-There exists a similar [rehype plugin](https://github.com/jaywclove/rehype-attr), but it uses html comments instead of curly braces. 
+There exists a similar [rehype plugin](https://github.com/jaywcjlove/rehype-attr), but it uses html comments instead of curly braces. 
 
 ## Usage:
 
